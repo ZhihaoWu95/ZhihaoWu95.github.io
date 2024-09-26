@@ -12,9 +12,9 @@ title                    : "Zhihao Wu / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Zhihao Wu"
 description              : &description "PhD Student in USSLAB, Zhejiang University"
-url                      : https://zhihaowu95.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ZhihaoWu95.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ZhihaoWu95/zhihaowu95.github.io"
+repository               : "ZhihaoWu95/ZhihaoWu95.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
