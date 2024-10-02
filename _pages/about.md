@@ -39,7 +39,7 @@ a universal identity into the face authentication database by wearing an adversa
 
 🎤 Oral presentation for DepthFake in IEEE S&P 2023 at Anaheim, U.S.
 
-<h2>Awards</h2>	
+<h2>Awards and Honors</h2>	
 
 💫Outstanding Graduate Student Award, Zhejiang University
 
