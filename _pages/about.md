@@ -20,7 +20,10 @@ I am a fifth-year Ph.D. student at the USSLAB from Zhejiang University, co-super
 🌟 **DepthFake** has been accept by **IEEE S&P 2023** (Big 4, CCF-A), Congratulations!
 
 <h2>Researches</h2>	
-🚀 **DepthFake** : The first work attacks the 3D liveness detection using a single 2D photo by leveraging the vulnerabilities of strcutured-light camera. [DEMO](https://sites.google.com/view/depthfake)
+🚀 **DepthFake** : The first work exploits vulnerabilities in the strcutured-light camera to attack 3D liveness detection using a single 2D photo. By projecting carft-designed infrared scatters embedded with depth information, we achieve a spoofing attack in commercial 3D face authentication systems.The demo can be found at [DEMO](https://sites.google.com/view/depthfake). 
+
+🚀 **UniID** : The first work exploits vulnerabilities in the enrollment phase of face authentication systems. The UniID allows multiple adversaries to perform face spoofing attacks without any additional disguise by enabling an insider to register
+a universal identity into the face authentication database by wearing an adversarial patch. The demo can be found at [DEMO](https://sites.google.com/view/depthfake). 
 
 <h2>Publications</h2>	
 
@@ -32,12 +35,12 @@ I am a fifth-year Ph.D. student at the USSLAB from Zhejiang University, co-super
 
 <h2>Talks</h2>	
 
-🎤 Oral presentation for UniID in NDSS 2024 from San Diego, US.
+🎤 Oral presentation for UniID in NDSS 2024 at San Diego, U.S.
 
-🎤 Oral presentation for DepthFake in IEEE S&P 2023 from Anaheim, US.
+🎤 Oral presentation for DepthFake in IEEE S&P 2023 at Anaheim, U.S.
 
 <h2>Awards</h2>	
 
-💫Outstanding Graduate Student Award of Zhejiang University
+💫Outstanding Graduate Student Award, Zhejiang University
 
 💫Vice President of Student Union, Zhejiang Sci-Tech University
