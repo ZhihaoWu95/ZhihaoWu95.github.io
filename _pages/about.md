@@ -13,11 +13,11 @@ I am a fifth-year Ph.D student at the USSLAB from Zhejiang University, co-superv
 
 <h2>News</h2>	
 
-🌟 “Multi-modal Spoofing Attacks on 3D Face Liveness Detection via a Single 2D Photo” has been accept by **IEEE TDSC** (CCF-A), Congratulations!
+🌟 “Multi-modal Spoofing Attacks on 3D Face Liveness Detection via a Single 2D Photo” has been accepted by **IEEE TDSC** (CCF-A), Congratulations!
 
-🌟 **UniID** has been accept by **NDSS 2024** (Big 4, CCF-A), Congratulations!
+🌟 **UniID** has been accepted by **NDSS 2024** (Big 4, CCF-A), Congratulations!
 
-🌟 **DepthFake** has been accept by **IEEE S&P 2023** (Big 4, CCF-A), Congratulations!
+🌟 **DepthFake** has been accepted by **IEEE S&P 2023** (Big 4, CCF-A), Congratulations!
 
 <h2>Researches</h2>	
 🚀 **DepthFake** : The first work exploits vulnerabilities in the strcutured-light camera to attack 3D liveness detection using a single 2D photo. By projecting carft-designed infrared scatters embedded with depth information, we achieve a spoofing attack in commercial 3D face authentication systems.The demo can be found at [DEMO](https://sites.google.com/view/depthfake). 
@@ -35,9 +35,9 @@ a universal identity into the face authentication database by wearing an adversa
 
 <h2>Talks</h2>	
 
-🎤 Oral presentation for UniID in NDSS 2024 at San Diego, U.S.
+🎤 Oral presentation for UniID in NDSS 2024, San Diego, U.S.
 
-🎤 Oral presentation for DepthFake in IEEE S&P 2023 at Anaheim, U.S.
+🎤 Oral presentation for DepthFake in IEEE S&P 2023, Anaheim, U.S.
 
 <h2>Awards and Honors</h2>	
 
