@@ -13,7 +13,7 @@ I am a fifth-year Ph.D student at the USSLAB from Zhejiang University, co-superv
 
 <h2>News</h2>	
 
-🌟 “MYOPIA: Protecting Face Privacy from Malicious Personalized Text-to-Image Synthesis via Unlearnable Examples” has been accepted by **AAAI 2025** (CCF-A), Congratulations!
+🌟 **MYOPIA** has been accepted by **AAAI 2025** (CCF-A), Congratulations!
 
 🌟 “Multi-modal Spoofing Attacks on 3D Face Liveness Detection via a Single 2D Photo” has been accepted by **IEEE TDSC** (CCF-A), Congratulations!
 
@@ -22,6 +22,8 @@ I am a fifth-year Ph.D student at the USSLAB from Zhejiang University, co-superv
 🌟 **DepthFake** has been accepted by **IEEE S&P 2023** (Big 4, CCF-A), Congratulations!
 
 <h2>Researches</h2>	
+🚀 **MYOPIA** : The first work leverages unlearnable examples to safeguard facial privacy in personlized Text-to-Image synthesis. The concept of unlearnable examples differs from adversarial examples by preventing the target model from capturing genuine facial features rather than disrupting the feature representation.
+
 🚀 **DepthFake** : The first work exploits vulnerabilities in the strcutured-light camera to attack 3D liveness detection using a single 2D photo. By projecting carft-designed infrared scatters embedded with depth information, we achieve a spoofing attack in commercial 3D face authentication systems.The demo can be found at [DEMO](https://sites.google.com/view/depthfake). 
 
 🚀 **UniID** : The first work exploits vulnerabilities in the enrollment phase of face authentication systems. The UniID allows multiple adversaries to perform face spoofing attacks without any additional disguise by enabling an insider to register
@@ -35,7 +37,7 @@ a universal identity into the face authentication database by wearing an adversa
 
 💥 **Zhihao Wu**, Yushi Cheng, Xiaoyu Ji, Wenyuan Xu, "Multi-modal Spoofing Attacks on 3D Face Liveness Detection via a Single 2D Photo" accepted by IEEE Transactions on Dependable and Secure Computing (**IEEE TDSC**).
 
-💥 **Zhihao Wu**, Yushi Cheng, Tianyang Sun, Xiaoyu Ji, Wenyuan Xu, "MYOPIA: Protecting Face Privacy from Malicious Personalized Text-to-Image Synthesis via Unlearnable Examples", accepted by AAAI, 2025.
+💥 **Zhihao Wu**, Yushi Cheng, Tianyang Sun, Xiaoyu Ji, Wenyuan Xu, "MYOPIA: Protecting Face Privacy from Malicious Personalized Text-to-Image Synthesis via Unlearnable Examples", accepted by **AAAI**, 2025.
 
 <h2>Talks</h2>	
 
