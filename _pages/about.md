@@ -13,6 +13,8 @@ I am a fifth-year Ph.D student at the USSLAB from Zhejiang University, co-superv
 
 <h2>News</h2>	
 
+🌟 “MYOPIA: Protecting Face Privacy from Malicious Personalized Text-to-Image Synthesis via Unlearnable Examples” has been accepted by **AAAI 2025** (CCF-A), Congratulations!
+
 🌟 “Multi-modal Spoofing Attacks on 3D Face Liveness Detection via a Single 2D Photo” has been accepted by **IEEE TDSC** (CCF-A), Congratulations!
 
 🌟 **UniID** has been accepted by **NDSS 2024** (Big 4, CCF-A), Congratulations!
@@ -32,6 +34,8 @@ a universal identity into the face authentication database by wearing an adversa
 💥 **Zhihao Wu**, Yushi Cheng, Shibo Zhang, Xiaoyu Ji, Wenyuan Xu, "UniID: Stealthy Spoofing Attacks against Face Authentication by Universal Identity" accepted by Network and Distributed System Security Symposium (**NDSS**), 2024.
 
 💥 **Zhihao Wu**, Yushi Cheng, Xiaoyu Ji, Wenyuan Xu, "Multi-modal Spoofing Attacks on 3D Face Liveness Detection via a Single 2D Photo" accepted by IEEE Transactions on Dependable and Secure Computing (**IEEE TDSC**).
+
+💥 **Zhihao Wu**, Yushi Cheng, Tianyang Sun, Xiaoyu Ji, Wenyuan Xu, "MYOPIA: Protecting Face Privacy from Malicious Personalized Text-to-Image Synthesis via Unlearnable Examples", accepted by AAAI, 2025.
 
 <h2>Talks</h2>	
 
