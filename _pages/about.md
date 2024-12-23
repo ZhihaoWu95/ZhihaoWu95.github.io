@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth-year Ph.D student at the USSLAB from Zhejiang University, co-supervised by Prof. Wenyuan Xu, Prof. Xiaoyu Ji, and Prof. Yushi Cheng. I received my B.S. degree and M.S. degree from Zhejiang Sci-Tech University in 2017 and 2020, respectively. My research interests include AI security, face authentication security, and privacy protection.
+I am a fifth-year Ph.D student at the [USSLAB](https://usslab.org/) from Zhejiang University, co-supervised by [Prof. Wenyuan Xu](https://sites.google.com/view/xuwenyuan/main), [Prof. Xiaoyu Ji](https://sites.google.com/site/xiaoyuijh/home), and Prof. Yushi Cheng. I received my B.S. degree and M.S. degree from Zhejiang Sci-Tech University in 2017 and 2020, respectively. My research interests include AI security, face authentication security, and privacy protection.
 
 🔥🔥🔥 **I am in the job market now!**
 
@@ -46,6 +46,7 @@ a universal identity into the face authentication database by wearing an adversa
 🎤 Oral presentation for DepthFake in IEEE S&P 2023, Anaheim, U.S.
 
 <h2>Awards and Honors</h2>	
+💫Luoci-Linwenzheng Award, Zhejiang University
 
 💫Outstanding Graduate Student Award, Zhejiang University
 
