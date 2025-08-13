@@ -1,7 +1,7 @@
 ---
 title: "Uniid: Spoofing face authentication system by universal identity"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/uniid
 excerpt: 'This paper leverages the vulnerability in the enrollment phase and proposes a poisoning attack to spoof face authentication.'
 date: 2024-03-01
