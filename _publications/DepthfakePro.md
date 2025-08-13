@@ -6,7 +6,6 @@ permalink: /publication/DepthfakePro
 excerpt: 'This paper introduce a pratical adversarial patch that can fool the commercial face athentication systems.'
 date: 2024-8-19
 venue: 'IEEE Transactions on Dependable and Secure Computing'
-slidesurl: 'None'
 paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10639356'
 citation: 'Wu Z, Cheng Y, Ji X, et al. Multi-Modal Spoofing Attacks on 3D Face Liveness Detection via a Single 2D Photo[J]. IEEE Transactions on Dependable and Secure Computing, 2025, 22(2): 1551-1566.'
 ---
