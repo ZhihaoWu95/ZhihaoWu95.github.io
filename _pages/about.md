@@ -21,7 +21,7 @@ I am a tenure-track Associate Professor at Zhejiang Sci-Tech University, working
 🌟 **DepthFake** has been accepted by **IEEE S&P 2023** (Big 4, CCF-A), Congratulations!
 
 <h2>Researches</h2>	
-🚀 **AdvPainting** : The new attack paradigm that bypasses these defenses by leveraging the image modality alone. By injecting imperceptible adversarial perturbations into the input image, it can enable successful jailbreaks even when paired with clean prompts (e.g., "a woman").
+🚀 **AdvPainting** : The new attack paradigm that bypasses the T2I model safety checkers by injecting imperceptible adversarial perturbations into the input image only. It can enable successful jailbreaks even when paired with clean prompts (e.g., "a woman").
 
 🚀 **MYOPIA** : The first work leverages unlearnable examples to safeguard facial privacy in personlized Text-to-Image synthesis. The concept of unlearnable examples differs from adversarial examples by preventing the target model from capturing genuine facial features rather than disrupting the feature representation.
 
