@@ -3,7 +3,7 @@ title: "Multi-Modal Spoofing Attacks on 3D Face Liveness Detection via a Single 
 collection: publications
 category: manuscripts
 permalink: /publication/DepthfakePro
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper introduce a pratical adversarial patch that can fool the commercial face athentication systems.'
 date: 2024-8-19
 venue: 'IEEE Transactions on Dependable and Secure Computing'
 slidesurl: 'None'
