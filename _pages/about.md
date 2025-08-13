@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a tenure-track Associate Professor at Zhejiang Sci-Tech University, working in the research group led by Prof. Jian Shen. I earned my Ph.D. from the [USSLAB](https://usslab.org/) at Zhejiang University in 2025, co-supervised by [Prof. Wenyuan Xu](https://sites.google.com/view/xuwenyuan/main), [Prof. Xiaoyu Ji](https://sites.google.com/site/xiaoyuijh/home), and Prof. Yushi Cheng. I received my B.S. degree and M.S. degree from Zhejiang Sci-Tech University in 2017 and 2020, respectively. My research interests include AI security, face authentication security, and privacy protection.
+I am a tenure-track Associate Professor at Zhejiang Sci-Tech University, working in the research group led by Prof. Jian Shen. I recived my Ph.D. from the [USSLAB](https://usslab.org/) at Zhejiang University in 2025, co-supervised by [Prof. Wenyuan Xu](https://sites.google.com/view/xuwenyuan/main), [Prof. Xiaoyu Ji](https://sites.google.com/site/xiaoyuijh/home), and Prof. Yushi Cheng. I received my B.S. degree and M.S. degree from Zhejiang Sci-Tech University in 2017 and 2020, respectively. My research interests include AI security, face authentication security, and privacy protection.
 
 <h2>News</h2>	
 🌟 **AdvPainting** has been accepted by **ACM MM 2025** (CCF-A), Congratulations to Bingqian!
